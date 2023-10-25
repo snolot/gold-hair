@@ -14,4 +14,4 @@ You can control the camera using mouse.
 
 ## Youtube video
 
-Check the [video](https://youtu.be/gt91Wx_LlOw){:target="_blank" rel="noopener"} on youtube.
+Check the [video](https://youtu.be/gt91Wx_LlOw) on youtube.
